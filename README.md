@@ -6,6 +6,6 @@ Here list the files in stackexchange:
     
     [https://mathematica.stackexchange.com/q/274413/86893 ](https://mathematica.stackexchange.com/q/274413/86893)
 
-* hypergeometric function 
+* bug with hypergeometric function.nb
 
     [https://mathematica.stackexchange.com/q/275875/86893]( https://mathematica.stackexchange.com/q/275875/86893)
